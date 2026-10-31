@@ -23,8 +23,8 @@ a discord bot for collecting league of legends champion and skin cards. 2,100+ c
 ### contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imspiritttt/imspiritttt/snake/snake-dark.svg" />
-  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/imspiritttt/imspiritttt/snake/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imspiritttt/imspiritttt/output/snake-dark.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/imspiritttt/imspiritttt/output/snake.svg" />
 </picture>
 
 <img src="assets/footer.svg" width="100%" alt="see ya." />
